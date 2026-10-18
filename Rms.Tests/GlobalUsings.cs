@@ -1,0 +1,9 @@
+global using Rms.Application.Matching;
+global using Rms.Application.Services;
+global using Rms.Domain.Common;
+global using Rms.Domain.Entities;
+global using Rms.Domain.Enums;
+global using Rms.Domain.Policies;
+global using Rms.Domain.ValueObjects;
+global using Rms.Infrastructure.Persistence;
+global using Xunit;
