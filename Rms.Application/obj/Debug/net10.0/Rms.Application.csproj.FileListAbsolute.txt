@@ -1,0 +1,5 @@
+C:\Users\123\source\repos\RMS-week1-code\Rms.Application\obj\Debug\net10.0\Rms.Application.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\RMS-week1-code\Rms.Application\obj\Debug\net10.0\Rms.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\RMS-week1-code\Rms.Application\obj\Debug\net10.0\Rms.Application.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\RMS-week1-code\Rms.Application\obj\Debug\net10.0\Rms.Application.AssemblyInfo.cs
+C:\Users\123\source\repos\RMS-week1-code\Rms.Application\obj\Debug\net10.0\Rms.Application.csproj.CoreCompileInputs.cache

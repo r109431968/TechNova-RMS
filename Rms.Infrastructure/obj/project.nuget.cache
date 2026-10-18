@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+37sNOr2lNY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\123\\source\\repos\\RMS-week1-code\\Rms.Infrastructure\\Rms.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
