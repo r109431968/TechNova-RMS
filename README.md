@@ -1,4 +1,3 @@
-
 # TechNova RMS - Resource Management System (Week 1)
 
 Week 1 of the 12-week RMS capstone: the **core domain and business engine** of a Resource Management System for TechNova Solutions, built as a **.NET 10 / C# 14 console application** with no UI framework and no database.
@@ -287,3 +286,4 @@ Details, diagrams and 9 ADRs are in [DESIGN.md](DESIGN.md).
 - Deactivating an employee does not release their existing allocations automatically.
 - No locking: run only one instance of the app at a time.
 
+Create new branch feature 22-oct-2026. Task merge this into main readme.md.
